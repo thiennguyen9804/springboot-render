@@ -11,7 +11,7 @@ public class StudentService {
     public List<Student> getStudents() {
         return List.of(new Student(
                 1L,
-                "Kiana Kaslana",
+                "Hayashing only love Kiana",
                 "kiana@gmail.com",
                 LocalDate.of(2000, Month.DECEMBER, 7),
                 24
